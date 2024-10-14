@@ -1,5 +1,5 @@
 After learning a lot from pygame, i wanted to test other possible functions with python: applications.
-I saw that PySide6 and TKinTer were made for this, so i chose PySide6.
+I saw that PySide6 and TKinter were made for this, so i chose PySide6.
 
 After watching some videos/courses about Pyside6, i made a rather basic application with its help, writing notes, saving them, loading them (the note and its contents) sooo... Here's what it looks like
 
