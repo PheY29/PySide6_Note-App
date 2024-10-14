@@ -1,7 +1,7 @@
-After learning a lot from pygame, I wanted to test other possible functions with python: applications.
-I saw that PySide6 and TKinter were made for this, so I chose PySide6.
+After learning a lot from pygame, i wanted to test other possible functions with python: applications.
+I saw that PySide6 and TKinTer were made for this, so i chose PySide6.
 
-After watching some videos/courses about Pyside6, I made a rather basic application with its help, writing notes, saving them, loading them (the note and its contents) sooo... Here's what it looks like
+After watching some videos/courses about Pyside6, i made a rather basic application with its help, writing notes, saving them, loading them (the note and its contents) sooo... Here's what it looks like
 
 ![image](https://github.com/user-attachments/assets/00553c65-3c93-4d40-9766-f13e10b6f86a)
 
