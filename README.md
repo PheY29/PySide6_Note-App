@@ -1,0 +1,1 @@
+# PySide6_Note-App
